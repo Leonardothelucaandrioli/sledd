@@ -1,0 +1,45 @@
+Utilizzo di Metasploitable
+
+Metasploitable è una macchina virtuale vulnerabile, usata per:
+
+1. *Test di Penetrazione*: Identificare vulnerabilità nei sistemi.
+2. *Sviluppo di Exploit*: Creare e testare nuovi exploit.
+
+
+Cos'è un Exploit e a Cosa si Utilizza
+
+Un exploit è un componente software o una tecnica utilizzata per sfruttare vulnerabilità, punti deboli o difetti in un sistema informatico, una rete o un'applicazione software. Gli exploit vengono generalmente utilizzati dagli aggressori per ottenere accesso non autorizzato, controllare o manipolare un sistema di destinazione per scopi dannosi.
+
+Usi  degli Exploit
+
+1. *Rubare dati sensibili*: come informazioni finanziarie o dati personali.
+2. *Installare malware*: come virus, worm o trojan.
+3. *Prendere il controllo dei sistemi*: per lanciare attacchi informatici o interrompere le operazioni aziendali.
+4. *Spiare le attività degli utenti*: come registrare le loro battute dai tasti o rubare le loro password.
+
+
+ Cos'è un Payload e a Cosa si Utilizza
+
+Un payload è la parte di dati trasmessi che rappresenta il contenuto effettivo del messaggio, in contrasto con i metadati e gli header che servono a far funzionare il protocollo di comunicazione.
+
+
+1. Trasmissione di Dati*: Inviare informazioni tra client e server.
+2. API* Scambio di dati tra applicazioni tramite API.
+3. Malware*: Azioni eseguite da un virus dopo aver infettato un sistema.
+
+
+ Cos'è una Shell e a Cosa Serve
+
+Una shell è un'interfaccia di comando (CLI) che consente agli utenti di interagire con il sistema operativo tramite comandi di testo. Viene utilizzata per:
+
+1. *Eseguire programmi*: Avviare applicazioni e script.
+2. *Navigare nel file system*: Spostarsi tra directory e file.
+3. *Gestire file e directory*: Creare, modificare, eliminare e spostare file e cartelle.
+4. *Automatizzare attività*: Scrivere script per automatizzare operazioni ripetitive.
+
+    
+
+
+
+
+
